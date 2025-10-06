@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "988144449753",
+    "firebase_url": "https://animation-170f1-default-rtdb.firebaseio.com",
+    "project_id": "animation-170f1",
+    "storage_bucket": "animation-170f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988144449753:android:48848f84383d7b7dad66c8",
+        "android_client_info": {
+          "package_name": "com.adnan.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7zRwwLnlzs8pan3Pd9YlQe7_Op7eSJ3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988144449753:android:033ccde5c5042f5aad66c8",
+        "android_client_info": {
+          "package_name": "com.example.animations_with_row_col"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7zRwwLnlzs8pan3Pd9YlQe7_Op7eSJ3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988144449753:android:c3178fea972e49baad66c8",
+        "android_client_info": {
+          "package_name": "com.example.chatting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7zRwwLnlzs8pan3Pd9YlQe7_Op7eSJ3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988144449753:android:cf22513aa23843fbad66c8",
+        "android_client_info": {
+          "package_name": "com.example.messaging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7zRwwLnlzs8pan3Pd9YlQe7_Op7eSJ3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988144449753:android:985a63858ff787ffad66c8",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7zRwwLnlzs8pan3Pd9YlQe7_Op7eSJ3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
